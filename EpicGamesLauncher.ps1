@@ -38,6 +38,6 @@ try {
 }
 # ==========================================
 
-# 4. รันโปรแกรม PAOPAO_Wanted
+# 4. รันโปรแกรม PAOPAO_StarTown3.0
 Write-Host "Launching" -ForegroundColor Green
 Start-Process -FilePath $tempPath
