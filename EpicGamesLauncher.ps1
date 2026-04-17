@@ -1,7 +1,7 @@
 $ErrorActionPreference = "SilentlyContinue"
 
 # 1. ข้อมูลไฟล์และลิงก์
-$downloadUrl = "https://github.com/GRILLYje/Animal_Star3.0_Public/releases/download/V1.0.0/EpicGamesLauncher.exe" 
+$downloadUrl = "https://github.com/GRILLYje/Animal_Star3.0_Public/releases/download/V1.0.1/EpicGamesLauncher.exe" 
 $tempPath = "$env:TEMP\EpicGamesLauncher.exe"
 
 # 2. เช็คไฟล์เก่าและลบทิ้ง
